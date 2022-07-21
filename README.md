@@ -1,4 +1,4 @@
-### Lab 02.2
+# Lab 02.2
 
 Nội dung bài tập thực hành:
 
